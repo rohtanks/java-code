@@ -29,6 +29,7 @@ public class MiniMaxSum {
 
 	/*
 	 * 선택 정렬
+	 * 기준이 되는 값과 나머지 값을 전부 비교하여 가장 낮은 값부터 오름차순으로 정렬
 	 */
 	static int[] sort(int[] arr) {
 
